@@ -1,4 +1,4 @@
-## Hi 👋
+## Hi, I'm Nimesh Rajakaruna 👋
 <h2 align="center">Electrical Engineering Undegraduate at University of Moratuwa</h2>
 
 <h5 align="center"> <img src="https://komarev.com/ghpvc/?username=Nimeshrajakaruna&label=Profile%20views&color=0e75b6&style=flat" alt="Nimeshrajakaruna" /> </h5>
