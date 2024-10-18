@@ -10,16 +10,16 @@
 
 
   👋 Hi, I'm UG at the University of Moratuwa.  
-  🏠 I live in Narammala, Kurunegala.  
+  🏠 I live in Anamaduwa, Puttalam.  
   💻 I'm passionate about backend development.  
-  📫 You can reach me at **ravindurukmal44@gmail.com**.
+  📫 You can reach me at **rhmndilhara123@gmail.com**.
 
 <br>
 
 ### Here's my github stats:
 
-![walleeva2018 GitHub stats](https://github-readme-stats.vercel.app/api?username=rukmalrrl&show_icons=true&theme=radical) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rukmalrrl&theme=radical)](https://git.io/streak-stats) 
+![walleeva2018 GitHub stats](https://github-readme-stats.vercel.app/api?username=Nimeshrajakaruna&show_icons=true&theme=radical) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nimeshrajakaruna&theme=radical)](https://git.io/streak-stats) 
 
 
 <h3 align="left">Connect with me:</h3>
