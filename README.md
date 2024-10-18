@@ -8,12 +8,12 @@
 
 <br>
 
+👋 Hi, I'm UG at the University of Moratuwa.  
+🏠 I live in Anamaduwa, Puttalam.  
+💻 I'm passionate about backend development.  
+⚡ I'm passionate about power systems, control systems, and electrical installations.  
+📫 You can reach me at **rhmndilhara123@gmail.com**.
 
-  👋 Hi, I'm UG at the University of Moratuwa.  
-  🏠 I live in Anamaduwa, Puttalam. 
-  💻 I'm passionate about backend development. 
-  ⚡ I'm passionate about power systems, control systems, and electrical installations.
-  📫 You can reach me at **rhmndilhara123@gmail.com**.
 
 <br>
 
