@@ -24,17 +24,6 @@ and grow professionally
 <br>
 
 
-### Here's my github stats:
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Nimeshrajakaruna&show_icons=true&locale=en&layout=compact&theme=radical)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nimeshrajakaruna&show_icons=true&locale=en&theme=radical)
-
-
-
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nimesh-rajakaruna-42b60b252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nimesh-rajakaruna-42b60b252" height="30" width="40" /></a>
@@ -73,4 +62,8 @@ and grow professionally
 </p>
 <br />
 <b></b>
+### Here's my github stats:
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Nimeshrajakaruna&show_icons=true&locale=en&layout=compact&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nimeshrajakaruna&show_icons=true&locale=en&theme=radical)
