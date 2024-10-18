@@ -28,6 +28,16 @@ and grow professionally
 ![walleeva2018 GitHub stats](https://github-readme-stats.vercel.app/api?username=Nimeshrajakaruna&show_icons=true&theme=radical) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nimeshrajakaruna&theme=radical)](https://git.io/streak-stats) 
 
+### Here's my github stats:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Nimeshrajakaruna&show_icons=true&locale=en&layout=compact&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nimeshrajakaruna&show_icons=true&locale=en&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nimeshrajakaruna&theme=radical)](https://git.io/streak-stats)
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
