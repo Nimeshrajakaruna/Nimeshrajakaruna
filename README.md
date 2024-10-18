@@ -62,9 +62,7 @@ and grow professionally
 </p>
 <br />
 <b></b>
-
-##Here's my github stats:
-
+<h3 align="left">Here's my github stats:</h3>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Nimeshrajakaruna&show_icons=true&locale=en&layout=compact&theme=radical)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nimeshrajakaruna&show_icons=true&locale=en&theme=radical)
