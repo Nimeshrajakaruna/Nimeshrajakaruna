@@ -10,8 +10,9 @@
 
 
   👋 Hi, I'm UG at the University of Moratuwa.  
-  🏠 I live in Anamaduwa, Puttalam.  
+  🏠 I live in Anamaduwa, Puttalam.
   💻 I'm passionate about backend development.  
+  ⚡ I'm passionate about power systems, control systems, and electrical installations.
   📫 You can reach me at **rhmndilhara123@gmail.com**.
 
 <br>
@@ -60,7 +61,7 @@
 </p>
 <br />
 <b></b>
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nimeshrajakaruna&show_icons=true&locale=en&layout=compact" alt="Nimeshrajakaruna" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nimeshrajakaruna&show_icons=true&locale=en" alt="Nimeshrajakaruna" /></p>
