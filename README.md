@@ -4,7 +4,12 @@
 
 <br>
 
-<p align="justify">I’m an undergraduate student studying Electrical Engineering at the University of Moratuwa. I have a keen interest in backend development and am always excited to work on new projects and learn more about this field.</p>
+<p align="justify">I am a dedicated Electrical Engineering undergraduate at the University of Moratuwa, with a keen interest
+in power systems engineering and electrical installation. My passion lies in exploring innovative solutions
+in energy distribution, smart grid technologies, and automation systems. I am eager to apply my technical
+knowledge and problem-solving skills to contribute effectively in these areas while continuing to learn
+and grow professionally
+</p>
 
 <br>
 
